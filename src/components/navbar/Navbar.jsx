@@ -7,7 +7,7 @@ const Navbar = () => {
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
   return (
-    <div className="bgbodyColor w-full h-[90px] leading-[80px] flex items-center px-4  text-white-300 font-titleFont border-b-[1px] border-b-gray-600">
+    <div className=" bgbodyColor w-full h-[90px] leading-[80px] flex items-center px-4  text-white-300 font-titleFont border-b-[1px] border-b-gray-600">
       <div className="container">
         <div className="flex items-center justify-between ">
           <div className="flex items-center gap-[10px]">
