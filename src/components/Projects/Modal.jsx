@@ -33,7 +33,7 @@ const Modal = ({ activeID, setShowModal }) => {
             ))}
           </div>
 
-          <a href="portfolio.siteUrl">
+          <a href="https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr">
             <button className="bg-designColor text-white py-2 px-4 my-8 rounded-[18px] font-[500] hover-bg headingColor ease-in duration-300">
               Live site
             </button>

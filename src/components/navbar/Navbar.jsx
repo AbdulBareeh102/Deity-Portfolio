@@ -35,7 +35,10 @@ const Navbar = () => {
             ))}
           </ul>
           {/*Hamurger*/}
-          <div onClick={handleClick} className="md:hidden z-10">
+          <div
+            onClick={handleClick}
+            className="md:hidden z-10 cursor-pointer hover:text-designColor duration-300"
+          >
             {!nav ? (
               <FaBars style={{ width: "100px", height: "30px" }} />
             ) : (
@@ -48,7 +51,7 @@ const Navbar = () => {
             className={
               !nav
                 ? "hidden"
-                : "absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center"
+                : "absolute top-0 left-0 w-full h-screen bg-bodyColor flex flex-col justify-center items-center cursor-pointer hover:text-designColor duration-300"
             }
           >
             {" "}
@@ -67,11 +70,11 @@ const Navbar = () => {
               {" "}
               <Link
                 onClick={handleClick}
-                to="about"
+                to="features"
                 smooth={true}
                 duration={500}
               >
-                About
+                Features
               </Link>
             </li>
             <li className="py-6 text-4xl">
@@ -83,17 +86,6 @@ const Navbar = () => {
                 duration={500}
               >
                 Projects
-              </Link>
-            </li>
-            <li className="py-6 text-4xl">
-              {" "}
-              <Link
-                onClick={handleClick}
-                to="resume"
-                smooth={true}
-                duration={500}
-              >
-                Testimonials
               </Link>
             </li>
             <li className="py-6 text-4xl">
