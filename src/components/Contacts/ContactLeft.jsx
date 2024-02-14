@@ -1,5 +1,10 @@
 import React from "react";
-import { FaFacebookF, FaTelegram, FaInstagram } from "react-icons/fa";
+import {
+  FaFacebookF,
+  FaTelegram,
+  FaInstagram,
+  FaDiscord,
+} from "react-icons/fa";
 import { c1 } from "../../assets/index";
 
 const ContactLeft = () => {
@@ -18,15 +23,20 @@ const ContactLeft = () => {
           and tools like Blender and Unity. With a passion for innovation, I
           create immersive gaming experiences that captivate players.
         </p>
-        <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+234 9016238658</span>
+        <p className="text-base text-gray-400 flex items-center gap-2 text-designColor">
+          Phone: <span className="text-lightText">+444 7441 427919</span>
         </p>
-        <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">Deitystudio21@gmail.com</span>
+        <p className="text-base text-gray-400 flex items-center gap-2 text-designColor">
+          Email:{" "}
+          <span className="text-lightText text-designColor">
+            Deitystudio21@gmail.com
+          </span>
         </p>
       </div>
       <div className="flex flex-col gap-4">
-        <h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
+        <h2 className="text-base uppercase font-titleFont mb-4 text-designColor">
+          Find me in
+        </h2>
         <div className="flex gap-4">
           <a href="https://www.facebook.com/profile.php?id=100084905980026&mibextid=PtKPJ9">
             <span className="bannerIcon">
@@ -41,6 +51,12 @@ const ContactLeft = () => {
           <a href="https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr">
             <span className="bannerIcon">
               <FaInstagram />
+            </span>
+          </a>
+          <a href="https://discord.gg/DfjxkAT3">
+            {" "}
+            <span className="bannerIcon">
+              <FaDiscord />
             </span>
           </a>
         </div>

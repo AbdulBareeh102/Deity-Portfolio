@@ -4,7 +4,7 @@ import portfolios from "../../assets/datas/portfolioData";
 const Modal = ({ activeID, setShowModal }) => {
   const portfolio = portfolios.find((portfolio) => portfolio.id === activeID);
   return (
-    <div className="w-full h-full fixed flex justify-center top-0 left-0  z-10 bg-white bg-opacity-40">
+    <div className="w-full h-full fixed flex justify-center top-10 left-0  z-20 bg-white bg-opacity-40">
       <div className="w-11/12 md:max-w-[600px] md:w-full absolute top-1/2 left-1/9 z-20  bg-bodyColor rounded-[8px] tramsform-translate-x-1/2 -translate-y-1/2 p-5">
         <div>
           <figure>

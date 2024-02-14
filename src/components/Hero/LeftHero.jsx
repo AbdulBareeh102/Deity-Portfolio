@@ -35,7 +35,7 @@ const LeftHero = () => {
         <p className="text-base font-bodyFont leading-6 tracking-wide">
           I'm a Game developer specializing in turning ideas into interactive
           reality, designing exceptional digital experience. currently, I'm
-          focusing in building responsive frontend web application
+          focusing on building responsive frontend web application
         </p>
       </div>
       {/* Media */}

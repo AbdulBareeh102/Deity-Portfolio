@@ -51,8 +51,6 @@ const portfolios = [
     Image: portfolioImg01,
     category: "Roblox Games",
     title: "Finance Technology Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["Unreal engine 6", "Blender", "Codewalker/FiveM"],
     siteUrl:
       "https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr",
@@ -62,8 +60,6 @@ const portfolios = [
     Image: portfolioImg011,
     category: "Roblox Games",
     title: "Finance Technology Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["Unreal engine 6", "Blender", "Codewalker/FiveM"],
     siteUrl:
       "https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr",
@@ -73,8 +69,6 @@ const portfolios = [
     Image: portfolioImg0112,
     category: "Roblox Games",
     title: "Finance Technology Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["Unreal engine 6", "Blender", "Codewalker/FiveM"],
     siteUrl:
       "https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr",
@@ -84,8 +78,6 @@ const portfolios = [
     Image: portfolioImg0113,
     category: "Roblox Games",
     title: "Finance Technology Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["Unreal engine 6", "Blender", "Codewalker/FiveM"],
     siteUrl:
       "https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr",
@@ -95,8 +87,6 @@ const portfolios = [
     Image: portfolioImg0114,
     category: "Roblox Games",
     title: "Finance Technology Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["Unreal engine 6", "Blender", "Codewalker/FiveM"],
     siteUrl:
       "https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr",
@@ -107,8 +97,6 @@ const portfolios = [
     Image: portfolioImg04,
     category: "FiveM MLOs",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -123,8 +111,6 @@ const portfolios = [
     Image: portfolioImg04,
     category: "3D Animation",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -139,8 +125,6 @@ const portfolios = [
     Image: portfolioImg077,
     category: "3D Animation",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -156,8 +140,6 @@ const portfolios = [
     Image: portfolioImg077,
     category: "FiveM MLOs",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -172,8 +154,6 @@ const portfolios = [
     Image: portfolioImg0771,
     category: "FiveM MLOs",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -188,8 +168,6 @@ const portfolios = [
     Image: portfolioImg0772,
     category: "FiveM MLOs",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -204,8 +182,6 @@ const portfolios = [
     Image: portfolioImg0773,
     category: "FiveM MLOs",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -220,8 +196,6 @@ const portfolios = [
     Image: portfolioImg0774,
     category: "FiveM MLOs",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -236,8 +210,6 @@ const portfolios = [
     Image: portfolioImg0775,
     category: "FiveM MLOs",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -252,8 +224,6 @@ const portfolios = [
     Image: portfolioImg0776,
     category: "FiveM MLOs",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -268,8 +238,6 @@ const portfolios = [
     Image: portfolioImg0776,
     category: "3D Animation",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -284,8 +252,6 @@ const portfolios = [
     Image: portfolioImg0777,
     category: "FiveM MLOs",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -300,8 +266,6 @@ const portfolios = [
     Image: portfolioImg0777,
     category: "3D Animation",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -316,8 +280,6 @@ const portfolios = [
     Image: portfolioImg0778,
     category: "FiveM MLOs",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -332,8 +294,6 @@ const portfolios = [
     Image: portfolioImg0778,
     category: "3D Animation",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -349,8 +309,6 @@ const portfolios = [
     Image: portfolioImg07796,
     category: "FiveM MLOs",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -365,8 +323,6 @@ const portfolios = [
     Image: portfolioImg07797,
     category: "FiveM MLOs",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -381,8 +337,6 @@ const portfolios = [
     Image: portfolioImg07797,
     category: "3D Animation",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -398,8 +352,6 @@ const portfolios = [
     Image: portfolioImg07798,
     category: "FiveM MLOs",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -415,8 +367,6 @@ const portfolios = [
     Image: portfolioImg077993,
     category: "3D Animation",
     title: "Ballot-shoot",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -432,8 +382,6 @@ const portfolios = [
     Image: portfolioImg02,
     category: "3D Animation",
     title: "Five-ML Play-Ground",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -449,8 +397,6 @@ const portfolios = [
     Image: portfolioImg10,
     category: "3D Animation",
     title: "GUN",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["Unreal engine 6", "Tailwind css", "Blender"],
     siteUrl: "#",
   },
@@ -459,8 +405,6 @@ const portfolios = [
     Image: portfolioImg18,
     category: "Roblox Games",
     title: "Meta",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["Unreal engine 6", "Blender", "Codewalker/FiveM"],
     siteUrl:
       "https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr",
@@ -471,8 +415,6 @@ const portfolios = [
     Image: portfolioImg06,
     category: "FiveM MLOs",
     title: "Five-ML Online Therapy",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -487,8 +429,6 @@ const portfolios = [
     Image: portfolioImg09,
     category: "3D Animation",
     title: "Game-Point",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["Unreal engine 6", "Blender", "Codewalker/FiveM"],
     siteUrl:
       "https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr",
@@ -499,8 +439,6 @@ const portfolios = [
     Image: portfolioImg17,
     category: "Roblox Games",
     title: "META-MINI ",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -515,8 +453,6 @@ const portfolios = [
     Image: portfolioImg07795,
     category: "FiveM MLOs",
     title: "Five-ML",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -531,8 +467,6 @@ const portfolios = [
     Image: portfolioImg07795,
     category: "3D Animation",
     title: "Five-ML",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -547,8 +481,6 @@ const portfolios = [
     Image: portfolioImg07799,
     category: "3D Animation",
     title: "Five-ML",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -564,8 +496,6 @@ const portfolios = [
     Image: portfolioImg03,
     category: "FiveM MLOs",
     title: "File Sharing Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -580,8 +510,6 @@ const portfolios = [
     Image: portfolioImg07791,
     category: "FiveM MLOs",
     title: "File Sharing Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -596,8 +524,6 @@ const portfolios = [
     Image: portfolioImg07792,
     category: "FiveM MLOs",
     title: "File Sharing Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -612,8 +538,6 @@ const portfolios = [
     Image: portfolioImg07793,
     category: "FiveM MLOs",
     title: "File Sharing Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -628,8 +552,6 @@ const portfolios = [
     Image: portfolioImg07794,
     category: "FiveM MLOs",
     title: "File Sharing Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -645,8 +567,6 @@ const portfolios = [
     Image: portfolioImg11,
     category: "3D Animation",
     title: "3D-CAR",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["Unreal engine 6", "Blender", "Codewalker/FiveM"],
     siteUrl:
       "https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr",
@@ -656,8 +576,6 @@ const portfolios = [
     Image: portfolioImg05,
     category: "Roblox Games",
     title: "Meta-Mini Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["Unreal engine 6", "Blender", "Codewalker/FiveM"],
     siteUrl:
       "https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr",
@@ -667,8 +585,6 @@ const portfolios = [
     Image: portfolioImg066,
     category: "Roblox Games",
     title: "AUS MECHANICS",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["Unreal engine 6", "Blender", "Codewalker/FiveM"],
     siteUrl:
       "https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr",
@@ -678,8 +594,6 @@ const portfolios = [
     Image: portfolioImg13,
     category: "3D Animation",
     title: "3D-CAR2",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -694,8 +608,6 @@ const portfolios = [
     Image: portfolioImg13,
     category: "FiveM MLOs",
     title: "3D-CAR2",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -711,8 +623,6 @@ const portfolios = [
     Image: portfolioImg14,
     category: "3D Animation",
     title: "3D-CAR3",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -727,8 +637,6 @@ const portfolios = [
     Image: portfolioImg14,
     category: "FiveM MLOs",
     title: "3D-CAR3",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -744,8 +652,6 @@ const portfolios = [
     Image: portfolioImg15,
     category: "3D Animation",
     title: "Ballot-shoot Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -760,8 +666,6 @@ const portfolios = [
     Image: portfolioImg15,
     category: "FiveM MLOs",
     title: "Ballot-shoot Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -777,8 +681,6 @@ const portfolios = [
     Image: portfolioImg20,
     category: "3D Animation",
     title: "Ballot-shoot Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -793,8 +695,6 @@ const portfolios = [
     Image: portfolioImg20,
     category: "FiveM MLOs",
     title: "Ballot-shoot Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -810,8 +710,6 @@ const portfolios = [
     Image: portfolioImg19,
     category: "3D Animation",
     title: "Ballot-shoot Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -826,8 +724,6 @@ const portfolios = [
     Image: portfolioImg19,
     category: "FiveM MLOs",
     title: "Ballot-shoot Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -843,8 +739,6 @@ const portfolios = [
     Image: portfolioImg21,
     category: "3D Animation",
     title: "Ballot-shoot Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -859,8 +753,6 @@ const portfolios = [
     Image: portfolioImg021,
     category: "FiveM MLOs",
     title: "Ballot-shoot Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -875,8 +767,6 @@ const portfolios = [
     Image: portfolioImg0221,
     category: "3D Animation",
     title: "Ballot-shoot Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -891,8 +781,6 @@ const portfolios = [
     Image: portfolioImg0221,
     category: "FiveM MLOs",
     title: "Ballot-shoot Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",
@@ -908,8 +796,6 @@ const portfolios = [
     Image: portfolioImg0222,
     category: "3D Animation",
     title: "Ballot-shoot Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: [
       "Unreal engine 6",
       "Tailwind css",

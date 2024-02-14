@@ -7,7 +7,7 @@ const Navbar = () => {
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
   return (
-    <div className="w-full h-24 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
+    <div className="sticky top-0 w-full h-24 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
       {/* <div className="container"> */}
       {/* <div className="flex items-center justify-between "> */}
       <div>
