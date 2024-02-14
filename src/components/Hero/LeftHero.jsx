@@ -1,6 +1,5 @@
 import { useTypewriter, Cursor } from "react-simple-typewriter";
 import React from "react";
-import { FaTwitterSquare, FaTelegram, FaInstagramSquare } from "react-icons/fa";
 import Media from "./Media";
 
 const LeftHero = () => {

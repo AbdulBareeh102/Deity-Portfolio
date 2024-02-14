@@ -1,5 +1,5 @@
 import React from "react";
-import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
+import { FaFacebookF, FaTelegram, FaInstagram } from "react-icons/fa";
 import { c1 } from "../../assets/index";
 
 const ContactLeft = () => {
@@ -11,7 +11,7 @@ const ContactLeft = () => {
         alt="c1"
       />
       <div className="flex flex-col gap-4">
-        <h3 className="text-3xl font-bold text-white">John Doe</h3>
+        <h3 className="text-3xl font-bold text-designColor">Deity</h3>
         <p className="text-lg font-normal text-gray-400">GAME DEVELOPER</p>
         <p className="text-base text-gray-400 tracking-wide">
           I'm a game developer proficient in 3D animation, Roblox game creation,
@@ -22,21 +22,27 @@ const ContactLeft = () => {
           Phone: <span className="text-lightText">+234 9016238658</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText"></span>
+          Email: <span className="text-lightText">Deitystudio21@gmail.com</span>
         </p>
       </div>
       <div className="flex flex-col gap-4">
         <h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
         <div className="flex gap-4">
-          <span className="bannerIcon">
-            <FaFacebookF />
-          </span>
-          <span className="bannerIcon">
-            <FaTwitter />
-          </span>
-          <span className="bannerIcon">
-            <FaLinkedinIn />
-          </span>
+          <a href="https://www.facebook.com/profile.php?id=100084905980026&mibextid=PtKPJ9">
+            <span className="bannerIcon">
+              <FaFacebookF />
+            </span>
+          </a>
+          <a href="https://t.me/Zach_OXL">
+            <span className="bannerIcon">
+              <FaTelegram />
+            </span>
+          </a>
+          <a href="https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr">
+            <span className="bannerIcon">
+              <FaInstagram />
+            </span>
+          </a>
         </div>
       </div>
     </div>

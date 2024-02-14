@@ -7,7 +7,7 @@ const BackToTopBtn = () => {
 
   useEffect(() => {
     window.addEventListener("scroll", () => {
-      return window.scrollY > 600 ? setShow(true) : setShow(false);
+      return window.scrollY > 800 ? setShow(true) : setShow(false);
     });
   }, []);
 

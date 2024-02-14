@@ -1,5 +1,5 @@
 import React from "react";
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaHtml5 } from "react-icons/fa";
+import { FaFacebookF, FaTelegram, FaInstagram, FaHtml5 } from "react-icons/fa";
 import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
 const Media = () => {
   return (
@@ -7,15 +7,23 @@ const Media = () => {
       <div>
         <h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
         <div className="flex gap-4">
-          <span className="bannerIcon">
-            <FaFacebookF />
-          </span>
-          <span className="bannerIcon">
-            <FaTwitter />
-          </span>
-          <span className="bannerIcon">
-            <FaLinkedinIn />
-          </span>
+          <a href="https://www.facebook.com/profile.php?id=100084905980026&mibextid=PtKPJ9">
+            <span className="bannerIcon">
+              <FaFacebookF />
+            </span>
+          </a>
+
+          <a href="https://t.me/Zach_OXL">
+            <span className="bannerIcon">
+              <FaTelegram />
+            </span>
+          </a>
+
+          <a href="https://www.instagram.com/deitystudios_?igsh=bWdmNjY5dTFueWh4&utm_source=qr">
+            <span className="bannerIcon">
+              <FaInstagram />
+            </span>
+          </a>
         </div>
       </div>
       <div>

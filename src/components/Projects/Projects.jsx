@@ -49,7 +49,7 @@ const Projects = () => {
         <div className="flex items-center justify-between flex-wrap">
           <div className="mb-7 sm:mb-6">
             <h3 className="text-headingColor text-[2rem] font-[700] text-designColor sm:text-center">
-              My projects
+              My Projects
             </h3>
           </div>
           <div className="flex gap-3 text-designColor">

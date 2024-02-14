@@ -7,7 +7,7 @@ const Navbar = () => {
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
   return (
-    <div className=" bgbodyColor w-full h-[90px] leading-[80px] flex items-center px-4  text-white-300 font-titleFont border-b-[1px] border-b-gray-600">
+    <div className="bgbodyColor w-full h-[90px] leading-[80px] flex items-center px-4  text-white-300 font-titleFont border-b-[1px] border-b-gray-600">
       <div className="container">
         <div className="flex items-center justify-between ">
           <div className="flex items-center gap-[10px]">
@@ -37,7 +37,7 @@ const Navbar = () => {
           {/*Hamurger*/}
           <div
             onClick={handleClick}
-            className="md:hidden z-10 cursor-pointer hover:text-designColor duration-300"
+            className="text-xl md:hidden bg-black z-10 w-10 h-10 inline-flex items-center justify-center rounded-full text-designColor cursor-pointer"
           >
             {!nav ? (
               <FaBars style={{ width: "100px", height: "30px" }} />
