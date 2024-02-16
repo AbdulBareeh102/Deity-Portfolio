@@ -23,14 +23,12 @@ const ContactLeft = () => {
           and tools like Blender and Unity. With a passion for innovation, I
           create immersive gaming experiences that captivate players.
         </p>
-        <p className="text-base text-gray-400 flex items-center gap-2 text-designColor">
-          Phone: <span className="text-lightText">+444 7441 427919</span>
+        <p className="text-base flex items-center gap-2 text-designColor">
+          Phone: <span className=" text-designColor">+44 7441 427919</span>
         </p>
-        <p className="text-base text-gray-400 flex items-center gap-2 text-designColor">
+        <p className="text-base flex items-center gap-2 text-designColor">
           Email:{" "}
-          <span className="text-lightText text-designColor">
-            Deitystudio21@gmail.com
-          </span>
+          <span className="Text text-designColor">Deitystudio21@gmail.com</span>
         </p>
       </div>
       <div className="flex flex-col gap-4">

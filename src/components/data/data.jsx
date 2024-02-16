@@ -10,23 +10,31 @@ export const featuresData = [
     des: "Dive into the action-packed world of Roblox games! Join me for endless adventures, exciting challenges, and non-stop fun. Let's explore together and create unforgettable gaming experiences. See you in the game",
   },
   {
+    id: 4,
+    icon: <FaMobile />,
+    title: "Web3 development",
+    des: "Explore the future with Web3 development! Join us to revolutionize the internet with blockchain, decentralized apps, and more. Let's innovate together",
+    links: [
+      "https://1win.whitepel.shop/casino/all",
+      "https://www.roblox.com/games/12618616391/German-Autobahn-Roblox-Highway",
+      "https://www.roblox.com/games/15799033389/JP-ROLEPLAY-IN-DEV",
+      "https://www.roblox.com/games/15599294146/Zombie-lobby",
+    ],
+  },
+  {
     id: 2,
     icon: <AiFillAppstore />,
     title: "FiveM MLOs",
     des: "Welcome to FiveM Los Santos! Get ready for non-stop action and excitement in the heart of the city. Join the community for thrilling adventures and unforgettable moments. See you on the streets",
   },
+
   {
     id: 3,
     icon: <SiProgress />,
     title: "3D animation ",
     des: "Unleash your creativity with Blender! From 3D modeling to animation, Blender empowers you to bring your ideas to life in stunning detail. Let's animate your imagination",
   },
-  {
-    id: 4,
-    icon: <FaMobile />,
-    title: "Web3 development",
-    des: "Explore the future with Web3 development! Join us to revolutionize the internet with blockchain, decentralized apps, and more. Let's innovate together",
-  },
+
   {
     id: 5,
     icon: <SiAntdesign />,
