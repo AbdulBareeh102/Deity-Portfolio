@@ -36,6 +36,17 @@ const Card = ({ item: { id, title, des, icon, links } }) => {
       className="relative w-70 px-12 h-80 py-10 rounded-lg shadow-shadowOne flex items-center bg-gradient-to-r from-bodyColor to-[#202327] group transition-colors duration-100 ease-in-out duration-200"
       onClick={handleClick}
     >
+      {/* Conditionally render the View More button at the top */}
+      {!showLinks && id === 4 && (
+        <div className="absolute flex items-center justify-center transition-opacity duration-300 ease-in-out top-10 left-10  w-full">
+          <div className="bg-white-500 bg-opacity-50 rounded-lg p-4">
+            <span className="text-designColor flex items-center justify-center">
+              View Links <HiArrowRight className="ml-2" />
+            </span>
+          </div>
+        </div>
+      )}
+
       <div
         className={`h-72 overflow-y-hidden ${showLinks ? "hidden" : "flex"}`}
       >
@@ -63,7 +74,7 @@ const Card = ({ item: { id, title, des, icon, links } }) => {
 
       {showLinks && links && (
         <div className="absolute inset-0 flex items-center justify-center bg-bodyColor-500 bg-opacity-50 rounded-lg p-4">
-          <div className="text-white">
+          <div className="text-designColor">
             {links.map((url, index) => (
               <div key={index}>
                 <a
@@ -75,17 +86,6 @@ const Card = ({ item: { id, title, des, icon, links } }) => {
                 </a>
               </div>
             ))}
-          </div>
-        </div>
-      )}
-
-      {/* Conditionally render the View More button */}
-      {!showLinks && id === 4 && (
-        <div className="absolute inset-0 flex items-center justify-center transition-opacity duration-300 ease-in-out">
-          <div className="bg-bodyColor-500 bg-opacity-50 rounded-lg p-4">
-            <span className="text-white flex items-center justify-center">
-              View More <HiArrowRight className="ml-2" />
-            </span>
           </div>
         </div>
       )}
