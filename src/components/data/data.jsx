@@ -15,10 +15,11 @@ export const featuresData = [
     title: "Web3 development",
     des: "Explore the future with Web3 development! Join us to revolutionize the internet with blockchain, decentralized apps, and more. Let's innovate together",
     links: [
-      "https://1win.whitepel.shop/casino/all",
-      "https://www.roblox.com/games/12618616391/German-Autobahn-Roblox-Highway",
-      "https://www.roblox.com/games/15799033389/JP-ROLEPLAY-IN-DEV",
-      "https://www.roblox.com/games/15599294146/Zombie-lobby",
+      "https://Betdino.io",
+      "https://1win.whitepel.shop",
+      "https://hg7788yn.com",
+      "https://ngawin.com",
+      "https://yalabet.com",
     ],
   },
   {
